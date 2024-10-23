@@ -28,25 +28,8 @@ Prescripto is an online appointment booking website for doctors or hospitals. Us
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/imrohitsampannavar45/Prescripto.git
-cd Prescripto
+git clone https://github.com/SAURABHTIWARIVBSPU/chaiaurreact.git
+cd chaiaurreact
 cd frontend
-
-```bash
 npm install
-
-```bash
 npm run dev
-
-```
-
-
-## Video Preview
-
-
-
-https://github.com/user-attachments/assets/f80cf322-a127-4990-a103-4dcbf5688341
-
-
-
-
