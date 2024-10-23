@@ -35,7 +35,4 @@ npm install
 npm run dev
 ## Video Preview
 
-<video width="640" height="480" controls>
-  <source src="https://raw.githubusercontent.com/imrohitsampannavar45/Prescripto/main/assets/Prescripto.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
